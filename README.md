@@ -24,5 +24,9 @@
 - __longer-form examples__ (8 examples)
 - __developer exercises__ (advanced, 2 examples)
 
-### issues
-1) 
+### issues / to-dos:
+1) in gallery/longform.ipynb:
+    - "face classification with haar-like feature descriptor" originally used the Dask library for task parallelization. I need to revamp the code to run on Jupyter notebooks. Error msgs are left in place for illustration.
+    
+2) in gallery/object-segmentation.ipynb:
+    - "region adjacency graphs (RAGs)" is return an attribute error as follows: 'RAG' object has no attribute 'node'. this is caused by a break in networkx package version 2.4; change attribute 'node' to 'nodes' to fix it. (done.)
