@@ -1,4 +1,4 @@
-# scikit-image notes (jupyter notebooks)
+# scikit-image notes
 
 ## contents:
 - README.md
@@ -10,7 +10,7 @@
 - __working with video_files__ (ffmpeg hacks MoviePy, imageio)
 - __simple tutorials__ (image segmentation, parallelization with joblib)
     
-### gallery of examples
+### gallery of examples (jupyter notebook files)
 - __std image library__ (specific, scientific, general-purpose images)
 - __NumPy operations__ (image manipulations, block views)
 - __exposures & color channels__ (10 examples)
