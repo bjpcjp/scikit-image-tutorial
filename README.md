@@ -1,3 +1,5 @@
+![logo](scikit-image-logo.png)
+
 # scikit-image notes
 
 ## contents:
